@@ -1,2 +1,2 @@
 # Hotstar-Clone
-Using html, css and js
+CodeSandbox Link - https://codesandbox.io/s/heuristic-smoke-jiqpni?file=/index.html
