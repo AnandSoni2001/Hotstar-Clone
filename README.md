@@ -1,2 +1,2 @@
 # Hotstar-Clone
-CodeSandbox Link - https://codesandbox.io/s/heuristic-smoke-jiqpni?file=/index.html
+Refer to [CodeSandbox](https://codesandbox.io/s/heuristic-smoke-jiqpni?file=/index.html) for demo.
